@@ -23,6 +23,7 @@ function test(): void {
 <template>
   <RouterLink to="/">Go to Home</RouterLink>
   <RouterLink to="/about">Go to About</RouterLink>
+  <RouterLink to="/test">test</RouterLink>
   
   <main>
     <RouterView />
