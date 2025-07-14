@@ -1,6 +1,6 @@
-타입캐스트 txt 형식 구조 확인
+//타입캐스트 txt 형식 구조 확인
 
-css framework 설치
+//css framework 설치
 
 프로젝트 저장, 로드, 최근프로젝트 기능 만들기
 
